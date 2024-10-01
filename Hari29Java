@@ -1,0 +1,9 @@
+package hari29coding;
+import java.math.BigInteger;
+public class HARI29CODING {
+
+    public static void main(String[] args) {
+      BigInteger a  = new BigInteger("3000");
+        System.out.println("nilai a= " + a );    
+    } 
+}
