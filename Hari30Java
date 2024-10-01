@@ -1,0 +1,8 @@
+package hari30coding;
+import java.math.BigDecimal;
+public class HARI30CODING {
+
+    public static void main(String[] args) {
+      BigDecimal angka = new BigDecimal("10.5"); System.out.println(angka );    
+    } 
+}
