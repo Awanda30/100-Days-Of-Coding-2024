@@ -6,7 +6,7 @@ public class DAY40CODING {
      hasil = 5 < 10;
      hasil1 = 4 > 5;
       System.out.println("apakah 5 lebih kecil dari 10: " + hasil); 
-      System.out.println("apakah 10 lebih besar dari 5: " + hasil1); 
+      System.out.println("apakah 4 lebih besar dari 5: " + hasil1); 
       
     }   
 }
